@@ -1,9 +1,11 @@
 # Web Deployment APP
-Welcome to PerfectScore Image Classifier, a cutting-edge web application powered by Flask that achieves an unprecedented 100% accuracy in classifying images into three distinct categories: Paper, Rock, and Scissors. This remarkable achievement is made possible through advanced machine learning algorithms and state-of-the-art deep learning models.<br>
+Welcome to Perfect Score Image Classifier, a cutting-edge web application powered by Streamlit that achieves an unprecedented 100% accuracy in classifying images into three distinct categories: Paper, Rock, and Scissors. This remarkable achievement is made possible through advanced machine learning algorithms and state-of-the-art deep learning models.<br>
 # Class
 - Paper
 - Rock
 - Scissor
+# Streamlit
+Create using streamlit, the powerful framework that can build app flawlessly. Streamlit has more features that can easily applied. <br>
 # Evaluation
 ![alt text](https://github.com/bayyy7/praktikum_modul6/blob/main/output.png)
 # Key Features
